@@ -1,7 +1,8 @@
-## Release 2.9.0 (2026-06-15)
+## Release 2.9.1 (2026-06-15)
 
 ### Breaking Changes
 - Upgraded to SB3 >= 2.9.0, added pandas to extra "plots" dependencies
+- Relaxed Gymnasium version range (from `"gymnasium>=0.29.1,<1.3.0"` to `"gymnasium>=0.29.1,<2.0"`)
 
 ### New Features
 
